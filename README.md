@@ -1,5 +1,7 @@
 # local-llm-proxy
 
+https://github.com/Deiamor/local-llm-proxy/raw/main/example.mov
+
 A lightweight proxy that translates the **Anthropic Messages API** into **OpenAI Chat Completions API**, enabling tools like [Claude Code](https://www.anthropic.com/claude-code) to run against any local LLM served by [llama.cpp](https://github.com/ggml-org/llama.cpp).
 
 ```
