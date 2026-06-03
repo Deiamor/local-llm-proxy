@@ -1,0 +1,10 @@
+# Claude Code source — do not include
+claude-code-main/
+
+# Local config
+.env
+*.log
+/tmp/
+
+# macOS
+.DS_Store
